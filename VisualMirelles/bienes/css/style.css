@@ -1,0 +1,36 @@
+.whatsapp-icon{position: fixed;
+
+right: 10px;
+bottom: 20px;
+height: 10px;
+
+}
+
+body{
+padding: 0px;
+margin: 0px ;
+
+}
+p{
+    color:rgb(212, 0, 255);
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.text-success{
+    color:rgb(128, 255, 0 ) !important;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.text-success:hover{
+    color:rgb(119, 0, 255) !important;
+    margin: 10px;
+    font-family: fantasy;
+}
+
+#name{
+    color: rgb(213, 20, 219);
+    margin: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
